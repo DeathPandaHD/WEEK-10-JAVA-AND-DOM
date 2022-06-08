@@ -50,7 +50,6 @@ document.getElementById('remove').addEventListener('click',() => {
 }); //! removes element using id*
 
 let id=0;
-*/
 
 
 
